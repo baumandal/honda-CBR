@@ -1,0 +1,281 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-part {
+    height: 620px;
+    background-color: rgba(38, 70, 83, 1);
+}
+
+.nav-position {
+    padding-top: 50px;
+    margin-right: 200px;
+}
+
+.nav-position a {
+    color: white;
+}
+
+.login-button {
+    margin-left: 70px;
+}
+
+.login-button a {
+    color: white;
+    background-color: rgba(231, 111, 81, 1);
+    padding: 6px 17px;
+    border-radius: 5px;
+}
+
+.heading {
+    display: flex;
+}
+
+.add {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.purchase-button {
+    margin-top: 50px;
+}
+
+.purchase-button a {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(231, 111, 81, 1);
+    padding: 6px 30px;
+    border-radius: 5px;
+}
+
+.half-one {
+    margin-top: 120px;
+    margin-left: 100px;
+    height: 500px;
+    width: 500px;
+}
+
+.half {
+    margin-top: 80px;
+    margin-left: 250px;
+}
+
+.half img {
+    width: 80%;
+}
+
+.bike-title {
+    margin-left: 400px;
+    padding: 50px;
+}
+
+.bike-title p {
+    margin-left: 100px;
+    color: rgba(231, 111, 81, 1);
+    font-weight: 500;
+}
+
+.bike-pic {
+    margin-bottom: 50px;
+}
+
+.bike-pic img {
+    width: 288px;
+    height: 243px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.extra-ordinery {
+    filter: grayscale(80%);
+}
+
+.latest-news-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.latest-news-pic img {
+    width: 337px;
+    height: 256px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.latest-news-pic {
+    width: 377px;
+    border-radius: 10px;
+}
+
+.card-title {
+    margin: 10px 5px;
+}
+
+.card-text {
+    margin: 10px 5px;
+}
+
+.gapping {
+    width: 1171px;
+    margin-left: 60px;
+}
+
+.read-button {
+    margin: 30px 20px;
+}
+
+.read-button a {
+    text-decoration: none;
+    border: 1px solid rgba(231, 111, 81, 1);
+    color: rgba(231, 111, 81, 1);
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.read-button a:hover {
+    background-color: rgba(231, 111, 81, 1);
+    color: white;
+}
+
+.happy-client h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.client-color {
+    color: rgba(231, 111, 81, 1);
+}
+
+.client-card {
+    margin-top: 30px;
+}
+
+.user-size {
+    width: 325px;
+    height: 480px;
+}
+
+.user-pic {
+    padding: 40px 35px;
+}
+
+.user-pic img {
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+
+.extra-mc {
+    padding: 40px 35px;
+}
+
+.extra-mc img {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    clip-path: circle();
+}
+
+.user-text {
+    text-align: center;
+}
+
+.rating {
+    text-align: center;
+}
+
+.filled {
+    color: rgba(231, 111, 81, 1);
+}
+
+.unfill {
+    color: lightgray;
+}
+
+.user-info {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.user-info a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.user-info p {
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.ask-ques h1 {
+    text-align: center;
+    margin: 100px 50px 0 0;
+}
+
+.question {
+    color: rgba(231, 111, 81, 1);
+}
+
+.faq {
+    margin-top: 100px;
+}
+
+.ask-pic img {
+    width: 435px;
+    height: 425px;
+}
+
+.accordion {
+    width: 555px;
+    margin-left: 140px;
+}
+
+.site-footer {
+    background-color: rgba(11, 13, 23, 1);
+    margin-top: 50px;
+    height: 300px;
+}
+
+.all-footer-link p {
+    color: white;
+    margin-top: 20px;
+    margin-left: 165px;
+}
+
+.first-footer {
+    margin-left: 100px;
+}
+
+.footer-link a {
+    margin-top: 70px;
+    margin-left: 50px;
+    color: white;
+}
+
+.second-footer {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.second-footer-link a {
+    color: white;
+}
+
+.get-app {
+    margin-top: 20px;
+    width: 700px;
+}
+
+.get-app p {
+    color: white;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.get-app img {
+    margin-left: 500px;
+    margin-bottom: 10px;
+    width: 140px;
+    height: 45px;
+}
